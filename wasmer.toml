@@ -1,0 +1,11 @@
+[package]
+name = "ta-ko-ho/astro-static-site-f4b"
+version = "0.1.0"
+description = "wasmer-tests/wasmer-edge-astro-sample website"
+repository = "https://github.com/ta-ko-ho/astro-static-site-f4b"
+
+[dependencies]
+"wasmer/static-web-server" = "*"
+
+[fs]
+public = "dist"

@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: ta-ko-ho-astro-static-site-f4b
+package: ta-ko-ho/astro-static-site-f4b
